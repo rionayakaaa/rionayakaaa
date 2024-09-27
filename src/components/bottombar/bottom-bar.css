@@ -1,0 +1,12 @@
+.bar {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 100px;
+    height: 70px;
+    align-items: center;
+}
+
+.bar li {
+    list-style: none;
+}
